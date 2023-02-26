@@ -1,0 +1,6 @@
+Hello world
+I am using Stream module
+Welcome
+
+
+readable
